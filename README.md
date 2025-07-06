@@ -1,3 +1,22 @@
+<h1 align="center">📚 A2Z-BookDekho</h1>
+
+<p align="center">
+  Discover, Explore, and Fall in Love with Books Again 📖✨
+</p>
+
+<p align="center">
+  <a href="https://github.com/imvikas31/A2Z-BookDekho-website/stargazers">
+    <img src="https://img.shields.io/github/stars/imvikas31/A2Z-BookDekho-website?style=social" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/imvikas31/A2Z-BookDekho-website/fork">
+    <img src="https://img.shields.io/github/forks/imvikas31/A2Z-BookDekho-website?style=social" alt="GitHub forks">
+  </a>
+  <a href="https://github.com/imvikas31/A2Z-BookDekho-website/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/imvikas31/A2Z-BookDekho-website?color=blue" alt="License">
+  </a>
+</p>
+
+
 # 📚 A2Z-BookDekho
 
 **A2Z-BookDekho** is a user-friendly and dynamic book cataloging website designed to help users browse and discover a wide range of books with ease. Built using HTML, CSS, and JavaScript, this responsive site offers a seamless frontend experience.
